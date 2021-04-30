@@ -1,0 +1,1775 @@
+{
+  "pages" : [ {
+    "id" : "P364",
+    "filename" : "103278761_00364.jpg",
+    "pageWidth" : 2184,
+    "pageHeight" : 2910
+  } ],
+  "regions" : [ {
+    "id" : "R1",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "362",
+        "style" : "cursive",
+        "rect" : "227,183,130,49"
+      } ],
+      "rect" : "201,183,156,49"
+    } ],
+    "rect" : "201,183,156,49"
+  }, {
+    "id" : "R3",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "En",
+        "style" : "italic",
+        "rect" : "538,262,47,58"
+      }, {
+        "text" : "la",
+        "style" : "italic",
+        "rect" : "593,262,31,58"
+      }, {
+        "text" : "santa",
+        "style" : "italic",
+        "rect" : "632,262,79,58"
+      }, {
+        "text" : "iglesia",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "B",
+        "rect" : "719,262,102,58"
+      }, {
+        "text" : "parroquial",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "E",
+        "rect" : "837,262,149,58"
+      }, {
+        "text" : "de",
+        "rect" : "1002,262,31,58"
+      }, {
+        "text" : "Jesús",
+        "type" : "LOCALE",
+        "position" : "B",
+        "rect" : "1041,262,79,58"
+      }, {
+        "text" : "Nazareno",
+        "type" : "LOCALE",
+        "position" : "E",
+        "rect" : "1135,262,134,58"
+      }, {
+        "text" : "de",
+        "style" : "italic",
+        "rect" : "1277,262,39,58"
+      }, {
+        "text" : "Manizales",
+        "type" : "LOCALE",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1324,262,157,58"
+      }, {
+        "text" : "a",
+        "style" : "italic",
+        "rect" : "1489,262,16,58"
+      }, {
+        "text" : "PRIMERO",
+        "style" : "underlined",
+        "rect" : "1536,262,244,58"
+      } ],
+      "rect" : "530,262,1250,58"
+    }, {
+      "tokens" : [ {
+        "text" : "No. 901",
+        "post" : "",
+        "type" : "QUANTITY",
+        "position" : "U",
+        "charStyles" : [ "cursive", "cursive", "cursive", null, "cursive", "cursive", "cursive" ],
+        "rect" : "536,178,255,56"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "791,178,37,56"
+      } ],
+      "rect" : "529,178,299,56"
+    }, {
+      "tokens" : [ {
+        "text" : "Nombre",
+        "style" : "cursive",
+        "rect" : "1103,175,143,47"
+      }, {
+        "text" : "BLANGA",
+        "type" : "PERSON",
+        "position" : "B",
+        "charStyles" : [ "cursive,underlined", "underlined", "underlined", "underlined", "underlined", "underlined" ],
+        "rect" : "1272,175,228,47"
+      }, {
+        "text" : "SULAI",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive,underlined",
+        "rect" : "1559,175,149,47"
+      }, {
+        "text" : "-",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1708,175,46,47"
+      } ],
+      "rect" : "1096,175,658,47"
+    } ],
+    "rect" : "529,175,1251,145"
+  }, {
+    "id" : "R6",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "ZAPATA",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1273,116,215,45"
+      }, {
+        "text" : "-",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1488,116,30,45"
+      }, {
+        "text" : "GARCÍA",
+        "orig" : "GARCIA",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1530,116,227,45"
+      } ],
+      "rect" : "1255,116,502,45"
+    } ],
+    "rect" : "1255,116,502,45"
+  }, {
+    "id" : "R8",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "de",
+        "post" : "  ",
+        "rect" : "543,337,40,50"
+      }, {
+        "text" : "NOVIEMBRE",
+        "type" : "DATE",
+        "position" : "B",
+        "charStyles" : [ "underlined", "underlined", "underlined", "underlined", "cursive,underlined", "cursive,underlined", "cursive,underlined", "cursive,underlined", "cursive,underlined" ],
+        "rect" : "617,337,291,50"
+      }, {
+        "text" : ".",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "underlined",
+        "rect" : "928,337,27,50"
+      }, {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1010,337,34,50"
+      }, {
+        "text" : "mil",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1050,337,54,50"
+      }, {
+        "text" : "novecientos",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1111,337,169,50"
+      }, {
+        "text" : "SETENTA",
+        "type" : "DATE",
+        "position" : "E",
+        "style" : "underlined",
+        "rect" : "1301,337,257,50"
+      } ],
+      "rect" : "529,337,1029,50"
+    }, {
+      "tokens" : [ {
+        "text" : ",",
+        "rect" : "1678,344,29,36"
+      }, {
+        "text" : "fue",
+        "style" : "italic",
+        "rect" : "1716,344,58,36"
+      }, {
+        "text" : "bautizad",
+        "type" : "EVENT_VITAL",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1783,344,139,36"
+      } ],
+      "rect" : "1673,344,249,36"
+    }, {
+      "tokens" : [ {
+        "text" : "por",
+        "style" : "cursive",
+        "rect" : "537,403,50,60"
+      }, {
+        "text" : "el",
+        "style" : "cursive",
+        "rect" : "603,403,25,60"
+      }, {
+        "text" : "PRESBÍTERO",
+        "orig" : "PBRO",
+        "type" : "OCCUPATION",
+        "position" : "U",
+        "style" : "cursive,underlined",
+        "rect" : "653,403,141,60"
+      }, {
+        "text" : "ALBERTO",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "827,403,231,60"
+      }, {
+        "text" : "DANNoz",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive,underlined",
+        "rect" : "1075,403,231,60"
+      }, {
+        "text" : ".",
+        "style" : "cursive,underlined",
+        "rect" : "1306,403,42,60"
+      }, {
+        "text" : "R.",
+        "style" : "cursive,underlined",
+        "rect" : "1364,403,83,60"
+      } ],
+      "rect" : "529,403,918,60"
+    }, {
+      "tokens" : [ {
+        "text" : "con",
+        "style" : "italic",
+        "rect" : "1697,417,51,30"
+      }, {
+        "text" : "el",
+        "style" : "italic",
+        "rect" : "1757,417,29,30"
+      }, {
+        "text" : "nombre",
+        "style" : "italic",
+        "rect" : "1795,417,102,30"
+      }, {
+        "text" : "de",
+        "style" : "italic",
+        "rect" : "1910,417,43,30"
+      } ],
+      "rect" : "1684,417,269,30"
+    }, {
+      "tokens" : [ {
+        "text" : "BLANCA",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "652,480,210,47"
+      }, {
+        "text" : ".",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "862,480,20,47"
+      }, {
+        "text" : "JUNALun",
+        "orig" : "JUNAL -",
+        "split" : "B",
+        "type" : "PERSON",
+        "position" : "I",
+        "charStyles" : [ "cursive", "cursive", "cursive", "cursive", "cursive", null, "cursive" ],
+        "rect" : "914,480,145,47 1072,480,39,47"
+      } ],
+      "rect" : "639,480,472,47"
+    }, {
+      "tokens" : [ {
+        "text" : "",
+        "orig" : "un",
+        "split" : "E",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "italic",
+        "rect" : "1429,480,56,41"
+      }, {
+        "text" : "niñ",
+        "type" : "COREF_GENDER",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1502,480,67,41"
+      }, {
+        "text" : "que",
+        "style" : "italic",
+        "rect" : "1592,480,56,41"
+      }, {
+        "text" : "nació",
+        "type" : "EVENT_VITAL",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1653,480,90,41"
+      }, {
+        "text" : "el",
+        "style" : "italic",
+        "rect" : "1748,480,28,41"
+      }, {
+        "text" : "DIEZ",
+        "post" : "",
+        "type" : "DATE",
+        "position" : "B",
+        "style" : "underlined",
+        "rect" : "1793,480,135,41"
+      }, {
+        "text" : ".",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "underlined",
+        "rect" : "1928,480,22,41"
+      } ],
+      "rect" : "1418,480,532,41"
+    }, {
+      "tokens" : [ {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "998,550,35,43"
+      }, {
+        "text" : "OcTUBRE",
+        "post" : "",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive,underlined",
+        "rect" : "1051,550,247,43"
+      }, {
+        "text" : ".",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive,underlined",
+        "rect" : "1298,550,29,43"
+      } ],
+      "rect" : "980,550,347,43"
+    }, {
+      "tokens" : [ {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1429,552,37,38"
+      }, {
+        "text" : "mil",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1471,552,54,38"
+      }, {
+        "text" : "novecientos",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1535,552,171,38"
+      }, {
+        "text" : "SETENTA",
+        "type" : "DATE",
+        "position" : "E",
+        "style" : "bold",
+        "rect" : "1733,552,213,38"
+      } ],
+      "rect" : "1418,552,528,38"
+    }, {
+      "tokens" : [ {
+        "text" : "hij",
+        "type" : "COREF",
+        "position" : "U",
+        "charStyles" : [ null, "italic", "italic" ],
+        "rect" : "833,620,49,52"
+      }, {
+        "text" : "LEGITIMA",
+        "post" : "",
+        "type" : "FAMILY_MEMBER",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "904,620,267,52"
+      }, {
+        "text" : ".",
+        "type" : "FAMILY_MEMBER",
+        "position" : "E",
+        "style" : "underlined",
+        "rect" : "1171,620,36,52"
+      }, {
+        "text" : "de",
+        "rect" : "1214,620,28,52"
+      }, {
+        "text" : "Luís",
+        "orig" : "Luis",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "1256,620,113,52"
+      }, {
+        "text" : "ANTONIO",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive,underlined",
+        "rect" : "1397,620,197,52"
+      }, {
+        "text" : "ZAPATA",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "underlined",
+        "rect" : "1629,620,198,52"
+      }, {
+        "text" : ".",
+        "style" : "underlined",
+        "rect" : "1827,620,28,52"
+      } ],
+      "rect" : "826,620,1029,52"
+    }, {
+      "tokens" : [ {
+        "text" : "y",
+        "style" : "cursive",
+        "rect" : "836,685,24,44"
+      }, {
+        "text" : "MARÍA",
+        "orig" : "MARIA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "884,685,162,44"
+      }, {
+        "text" : "LEONOR",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1070,685,193,44"
+      }, {
+        "text" : "GARCÍA",
+        "orig" : "GARCIA",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1281,685,192,44"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1473,685,30,44"
+      } ],
+      "rect" : "824,685,679,44"
+    }, {
+      "tokens" : [ {
+        "text" : "Abuelos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "B",
+        "rect" : "544,768,116,36"
+      }, {
+        "text" : "paternos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "E",
+        "rect" : "675,768,146,36"
+      } ],
+      "rect" : "534,768,287,36"
+    }, {
+      "tokens" : [ {
+        "text" : "MANUEL",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "873,752,210,43"
+      }, {
+        "text" : "SALUADOR",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1119,752,263,43"
+      }, {
+        "text" : "CAPATA",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1430,752,192,43"
+      } ],
+      "rect" : "861,752,761,43"
+    }, {
+      "tokens" : [ {
+        "text" : "JULIA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "875,818,152,40"
+      }, {
+        "text" : "ROSA",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1060,818,184,40"
+      } ],
+      "rect" : "859,818,385,40"
+    }, {
+      "tokens" : [ {
+        "text" : "GALLEGO",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1237,818,215,38"
+      }, {
+        "text" : "-",
+        "style" : "cursive",
+        "rect" : "1467,818,36,38"
+      } ],
+      "rect" : "1222,818,281,38"
+    }, {
+      "tokens" : [ {
+        "text" : "Abuelos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "B",
+        "style" : "italic",
+        "rect" : "549,898,116,28"
+      }, {
+        "text" : "maternos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "E",
+        "style" : "italic",
+        "rect" : "676,898,150,28"
+      } ],
+      "rect" : "534,898,292,28"
+    }, {
+      "tokens" : [ {
+        "text" : "JOAQUIN",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "873,881,222,44"
+      }, {
+        "text" : "GARCÍA",
+        "orig" : "GARCIA",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1124,881,192,44"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1316,881,30,44"
+      } ],
+      "rect" : "849,881,497,44"
+    }, {
+      "tokens" : [ {
+        "text" : "MARÍA",
+        "orig" : "MARIA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "872,949,203,42"
+      } ],
+      "rect" : "861,949,214,42"
+    }, {
+      "tokens" : [ {
+        "text" : "ÁLVAREZ",
+        "orig" : "ALVAREZ",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1119,946,256,32"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1375,946,27,32"
+      } ],
+      "rect" : "1101,946,301,32"
+    }, {
+      "tokens" : [ {
+        "text" : "Padrinos",
+        "type" : "NONFAMILY",
+        "position" : "U",
+        "rect" : "551,1029,144,27"
+      } ],
+      "rect" : "536,1029,159,27"
+    }, {
+      "tokens" : [ {
+        "text" : "FERNANDO",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "871,1008,274,47"
+      }, {
+        "text" : "ARTURO",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1184,1008,209,47"
+      }, {
+        "text" : "JARAMILLO",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1425,1008,287,47"
+      } ],
+      "rect" : "858,1008,854,47"
+    }, {
+      "tokens" : [ {
+        "text" : "OLAGIRA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "865,1078,223,41"
+      }, {
+        "text" : "GÓMEZ",
+        "orig" : "GOMEZ",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1122,1078,189,41"
+      } ],
+      "rect" : "854,1078,457,41"
+    }, {
+      "tokens" : [ {
+        "text" : "a",
+        "rect" : "544,1149,24,82"
+      }, {
+        "text" : "quienes",
+        "type" : "COREF",
+        "position" : "U",
+        "rect" : "576,1149,112,82"
+      }, {
+        "text" : "se",
+        "rect" : "696,1149,24,82"
+      }, {
+        "text" : "advirtió",
+        "rect" : "736,1149,120,82"
+      }, {
+        "text" : "el",
+        "rect" : "864,1149,24,82"
+      }, {
+        "text" : "parentesco",
+        "rect" : "904,1149,144,82"
+      }, {
+        "text" : "espiritual",
+        "rect" : "1064,1149,136,82"
+      }, {
+        "text" : "que",
+        "rect" : "1216,1149,40,82"
+      }, {
+        "text" : "contrajeron",
+        "rect" : "1272,1149,168,82"
+      }, {
+        "text" : "con",
+        "rect" : "1456,1149,40,82"
+      }, {
+        "text" : "su",
+        "type" : "COREF",
+        "position" : "U",
+        "rect" : "1512,1149,32,82"
+      }, {
+        "text" : "ahijad",
+        "rect" : "1552,1149,104,82"
+      }, {
+        "text" : "y",
+        "rect" : "1688,1149,24,82"
+      }, {
+        "text" : "las",
+        "rect" : "1720,1149,40,82"
+      }, {
+        "text" : "obligaciones",
+        "rect" : "1768,1149,192,82"
+      } ],
+      "rect" : "536,1149,1424,82"
+    }, {
+      "tokens" : [ {
+        "text" : "consiguientes",
+        "post" : "",
+        "rect" : "546,1211,192,37"
+      }, {
+        "text" : ".",
+        "rect" : "738,1211,25,37"
+      } ],
+      "rect" : "536,1211,227,37"
+    }, {
+      "tokens" : [ {
+        "text" : "Doy",
+        "style" : "cursive",
+        "rect" : "1002,1211,55,165"
+      }, {
+        "text" : "fe",
+        "post" : "",
+        "style" : "cursive",
+        "rect" : "1069,1211,33,165"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1102,1211,22,165"
+      }, {
+        "text" : "Por",
+        "style" : "cursive",
+        "rect" : "1135,1211,33,165"
+      }, {
+        "text" : "el",
+        "style" : "cursive",
+        "rect" : "1179,1211,34,165"
+      }, {
+        "text" : "Párroco",
+        "orig" : "Parroco",
+        "post" : "",
+        "type" : "OCCUPATION",
+        "position" : "U",
+        "style" : "cursive",
+        "rect" : "1224,1211,144,165"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1368,1211,33,165"
+      }, {
+        "text" : "Hicelio",
+        "style" : "cursive",
+        "rect" : "1434,1211,200,165"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "1656,1211,55,165"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "1711,1211,67,165"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "1778,1211,22,165"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "1800,1211,22,165"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "1822,1211,22,165"
+      }, {
+        "text" : "⌨",
+        "rect" : "1844,1211,22,165"
+      }, {
+        "text" : "Presbítero",
+        "orig" : "Pbro",
+        "type" : "OCCUPATION",
+        "position" : "U",
+        "style" : "cursive",
+        "rect" : "1877,1211,111,165"
+      } ],
+      "rect" : "991,1211,997,165"
+    }, {
+      "tokens" : [ {
+        "text" : "Párroco",
+        "rect" : "1459,1323,165,22"
+      } ],
+      "rect" : "1447,1323,177,22"
+    } ],
+    "rect" : "529,337,1459,1039"
+  }, {
+    "id" : "R10",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "Contrajo",
+        "style" : "cursive",
+        "rect" : "62,1580,153,71"
+      }, {
+        "text" : "Matrimonio",
+        "type" : "EVENT_VITAL",
+        "position" : "U",
+        "style" : "cursive",
+        "rect" : "231,1580,217,71"
+      }, {
+        "text" : "en",
+        "style" : "cursive",
+        "rect" : "464,1580,80,71"
+      } ],
+      "rect" : "54,1580,490,71"
+    }, {
+      "tokens" : [ {
+        "text" : "GONZÁLEZ",
+        "orig" : "GONZALEZ",
+        "type" : "PERSON",
+        "position" : "U",
+        "style" : "cursive",
+        "rect" : "1294,1556,291,59"
+      }, {
+        "text" : "-",
+        "style" : "cursive",
+        "rect" : "1593,1556,25,59"
+      }, {
+        "text" : "CASTAÑO",
+        "type" : "PERSON",
+        "position" : "U",
+        "style" : "cursive",
+        "rect" : "1626,1556,242,59"
+      }, {
+        "text" : "--",
+        "orig" : "—",
+        "style" : "cursive",
+        "rect" : "1876,1556,49,59"
+      } ],
+      "rect" : "1286,1556,639,59"
+    }, {
+      "tokens" : [ {
+        "text" : "la",
+        "style" : "cursive",
+        "rect" : "82,1644,44,53"
+      }, {
+        "text" : "Parroquia",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "133,1644,184,53"
+      }, {
+        "text" : "de",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "339,1644,37,53"
+      }, {
+        "text" : "San",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "398,1644,110,53"
+      } ],
+      "rect" : "60,1644,448,53"
+    }, {
+      "tokens" : [ {
+        "text" : "No. 902",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "E",
+        "charStyles" : [ "cursive", "cursive", "cursive", null, "cursive", "cursive", "cursive" ],
+        "rect" : "549,1622,232,56"
+      } ],
+      "rect" : "541,1622,240,56"
+    }, {
+      "tokens" : [ {
+        "text" : "Nombre",
+        "style" : "italic",
+        "rect" : "1118,1637,144,63"
+      }, {
+        "text" : "Luz",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "1287,1637,135,63"
+      }, {
+        "text" : "EDIA",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive,underlined",
+        "rect" : "1456,1637,135,63"
+      }, {
+        "text" : "-",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive,underlined",
+        "rect" : "1591,1637,51,63"
+      } ],
+      "rect" : "1110,1637,532,63"
+    }, {
+      "tokens" : [ {
+        "text" : "Antonio",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "70,1690,134,67"
+      }, {
+        "text" : "de",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "228,1690,40,67"
+      }, {
+        "text" : "Padua",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "283,1690,119,67"
+      }, {
+        "text" : "de",
+        "style" : "cursive",
+        "rect" : "426,1690,87,67"
+      } ],
+      "rect" : "46,1690,467,67"
+    }, {
+      "tokens" : [ {
+        "text" : "Bogotá",
+        "type" : "LOCALE",
+        "position" : "U",
+        "style" : "cursive",
+        "rect" : "79,1740,145,67"
+      }, {
+        "text" : "el",
+        "style" : "cursive",
+        "rect" : "240,1740,40,67"
+      }, {
+        "text" : "Primero",
+        "type" : "DATE_NONSPECIFIC",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "288,1740,137,67"
+      }, {
+        "text" : "(",
+        "post" : "",
+        "type" : "DATE_NONSPECIFIC",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "441,1740,25,67"
+      }, {
+        "text" : "1",
+        "post" : "",
+        "type" : "DATE_NONSPECIFIC",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "466,1740,24,67"
+      }, {
+        "text" : ")",
+        "type" : "DATE_NONSPECIFIC",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "490,1740,32,67"
+      } ],
+      "rect" : "63,1740,459,67"
+    }, {
+      "tokens" : [ {
+        "text" : "En",
+        "type" : "DATE_NONSPECIFIC",
+        "position" : "E",
+        "style" : "italic",
+        "rect" : "558,1724,41,51"
+      }, {
+        "text" : "la",
+        "style" : "italic",
+        "rect" : "606,1724,35,51"
+      }, {
+        "text" : "santa",
+        "style" : "italic",
+        "rect" : "648,1724,76,51"
+      }, {
+        "text" : "iglesia",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "B",
+        "style" : "italic",
+        "rect" : "731,1724,104,51"
+      }, {
+        "text" : "parroquial",
+        "type" : "ORGANIZATION_RELIGIOUS",
+        "position" : "E",
+        "style" : "italic",
+        "rect" : "841,1724,160,51"
+      }, {
+        "text" : "de",
+        "style" : "italic",
+        "rect" : "1008,1724,34,51"
+      }, {
+        "text" : "Jesús",
+        "type" : "LOCALE",
+        "position" : "B",
+        "rect" : "1056,1724,76,51"
+      }, {
+        "text" : "Nazareno",
+        "type" : "LOCALE",
+        "position" : "E",
+        "rect" : "1146,1724,138,51"
+      }, {
+        "text" : "de",
+        "style" : "italic",
+        "rect" : "1298,1724,28,51"
+      }, {
+        "text" : "Manizales",
+        "type" : "LOCALE",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1340,1724,152,51"
+      }, {
+        "text" : "a",
+        "style" : "italic",
+        "rect" : "1499,1724,21,51"
+      }, {
+        "text" : "PRIMERO",
+        "type" : "DATE",
+        "position" : "B",
+        "style" : "underlined",
+        "rect" : "1554,1724,263,51"
+      } ],
+      "rect" : "544,1724,1273,51"
+    }, {
+      "tokens" : [ {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "79,1804,49,45"
+      }, {
+        "text" : "Julio",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "140,1804,104,45"
+      }, {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "256,1804,49,45"
+      }, {
+        "text" : "1989",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "317,1804,91,45"
+      }, {
+        "text" : "con",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "421,1804,85,45"
+      } ],
+      "rect" : "67,1804,439,45"
+    }, {
+      "tokens" : [ {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "561,1797,39,41"
+      }, {
+        "text" : "NOVIEMBRE",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "underlined",
+        "rect" : "645,1797,308,41"
+      }, {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1026,1797,34,41"
+      }, {
+        "text" : "mil",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1071,1797,50,41"
+      }, {
+        "text" : "novecientos",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1127,1797,174,41"
+      }, {
+        "text" : "SETENTA",
+        "post" : "",
+        "type" : "DATE",
+        "position" : "E",
+        "style" : "underlined",
+        "rect" : "1346,1797,258,41"
+      }, {
+        "text" : ".",
+        "style" : "underlined",
+        "rect" : "1604,1797,78,41"
+      } ],
+      "rect" : "544,1797,1138,41"
+    }, {
+      "tokens" : [ {
+        "text" : "fue",
+        "style" : "italic",
+        "rect" : "1729,1802,54,40"
+      }, {
+        "text" : "bautizad",
+        "type" : "EVENT_VITAL",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1794,1802,140,40"
+      } ],
+      "rect" : "1713,1802,221,40"
+    }, {
+      "tokens" : [ {
+        "text" : "Manuel",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "77,1848,144,63"
+      }, {
+        "text" : "Augusto",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "238,1848,136,63"
+      }, {
+        "text" : "Merpor",
+        "orig" : "Mer-",
+        "split" : "B",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "400,1848,93,63 493,1848,34,63"
+      } ],
+      "rect" : "68,1848,459,63"
+    }, {
+      "tokens" : [ {
+        "text" : "",
+        "orig" : "por",
+        "split" : "E",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "558,1861,45,55"
+      }, {
+        "text" : "el",
+        "style" : "cursive",
+        "rect" : "618,1861,29,55"
+      }, {
+        "text" : "PRESBÍTERO",
+        "orig" : "PBRO",
+        "type" : "OCCUPATION",
+        "position" : "U",
+        "style" : "cursive,underlined",
+        "rect" : "677,1861,149,55"
+      }, {
+        "text" : "ALBERTO",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "871,1861,269,55"
+      }, {
+        "text" : "DALLOZ",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "charStyles" : [ "cursive,underlined", "cursive,underlined", "cursive,underlined", "cursive", "cursive", "cursive" ],
+        "rect" : "1162,1861,261,55"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1423,1861,23,55"
+      }, {
+        "text" : "R.",
+        "style" : "cursive",
+        "rect" : "1468,1861,97,55"
+      } ],
+      "rect" : "543,1861,1022,55"
+    }, {
+      "tokens" : [ {
+        "text" : "con",
+        "style" : "italic",
+        "rect" : "1709,1872,53,32"
+      }, {
+        "text" : "el",
+        "style" : "italic",
+        "rect" : "1770,1872,27,32"
+      }, {
+        "text" : "nombre",
+        "style" : "italic",
+        "rect" : "1805,1872,105,32"
+      }, {
+        "text" : "de",
+        "style" : "italic",
+        "rect" : "1919,1872,48,32"
+      } ],
+      "rect" : "1696,1872,271,32"
+    }, {
+      "tokens" : [ {
+        "text" : "nández",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "90,1906,136,47"
+      }, {
+        "text" : "Ortiz",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "246,1906,104,47"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "350,1906,32,47"
+      } ],
+      "rect" : "70,1906,312,47"
+    }, {
+      "tokens" : [ {
+        "text" : "LUZ",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "680,1940,138,47"
+      }, {
+        "text" : "EDID",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "844,1940,158,47"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1002,1940,52,47"
+      } ],
+      "rect" : "667,1940,387,47"
+    }, {
+      "tokens" : [ {
+        "text" : "un",
+        "style" : "italic",
+        "rect" : "1447,1933,42,52"
+      }, {
+        "text" : "niñ",
+        "type" : "COREF_GENDER",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1517,1933,63,52"
+      }, {
+        "text" : "que",
+        "style" : "italic",
+        "rect" : "1601,1933,56,52"
+      }, {
+        "text" : "nació",
+        "type" : "EVENT_VITAL",
+        "position" : "U",
+        "style" : "italic",
+        "rect" : "1664,1933,91,52"
+      }, {
+        "text" : "el",
+        "style" : "italic",
+        "rect" : "1762,1933,28,52"
+      }, {
+        "text" : "DIEZ",
+        "type" : "DATE_NONSPECIFIC",
+        "position" : "U",
+        "style" : "underlined",
+        "rect" : "1797,1933,133,52"
+      } ],
+      "rect" : "1433,1933,497,52"
+    }, {
+      "tokens" : [ {
+        "text" : "S",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "68,1963,56,112"
+      }, {
+        "text" : "J.",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "132,1963,48,112"
+      }, {
+        "text" : "Fernán",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "196,1963,128,112"
+      }, {
+        "text" : "Llano",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "340,1963,96,112"
+      }, {
+        "text" : "Ruíz",
+        "orig" : "Ruiz",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "453,1963,88,112"
+      }, {
+        "text" : "y",
+        "type" : "DATE",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "573,1963,40,112"
+      }, {
+        "text" : "SEIS",
+        "post" : "",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "669,1963,120,112"
+      }, {
+        "text" : ".",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "789,1963,32,112"
+      } ],
+      "rect" : "60,1963,761,112"
+    }, {
+      "tokens" : [ {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "rect" : "1013,2012,36,37"
+      }, {
+        "text" : "OCTUBRE",
+        "post" : " \n",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "underlined",
+        "rect" : "1081,2012,269,37"
+      } ],
+      "rect" : "982,2012,467,37"
+    }, {
+      "tokens" : [ {
+        "text" : "de",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1446,2003,37,46"
+      }, {
+        "text" : "mil",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1489,2003,50,46"
+      }, {
+        "text" : "novecientos",
+        "type" : "DATE",
+        "position" : "I",
+        "style" : "italic",
+        "rect" : "1552,2003,169,46"
+      }, {
+        "text" : "SETENTA",
+        "post" : "",
+        "type" : "DATE",
+        "position" : "E",
+        "style" : "underlined",
+        "rect" : "1740,2003,207,46"
+      }, {
+        "text" : ",",
+        "style" : "underlined",
+        "rect" : "1947,2003,31,46"
+      } ],
+      "rect" : "1433,2003,545,46"
+    }, {
+      "tokens" : [ {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "470,2044,19,27"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "489,2044,11,27"
+      }, {
+        "text" : "⌨",
+        "post" : "",
+        "rect" : "500,2044,37,27"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "537,2044,70,27"
+      } ],
+      "rect" : "448,2044,159,27"
+    } ],
+    "rect" : "46,1556,1932,519"
+  }, {
+    "id" : "R16",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "hij",
+        "type" : "FAMILY_MEMBER",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "858,2077,48,51"
+      }, {
+        "text" : "LEGITIMA",
+        "post" : "",
+        "type" : "FAMILY_MEMBER",
+        "position" : "E",
+        "style" : "cursive,underlined",
+        "rect" : "934,2077,262,51"
+      }, {
+        "text" : ".",
+        "style" : "underlined",
+        "rect" : "1196,2077,28,51"
+      }, {
+        "text" : "de",
+        "rect" : "1231,2077,28,51"
+      }, {
+        "text" : "NESTALI",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "1272,2077,242,51"
+      }, {
+        "text" : "GONZÁLEZ",
+        "orig" : "GONZALEZ",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1556,2077,297,51"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1853,2077,55,51"
+      } ],
+      "rect" : "851,2077,1057,51"
+    }, {
+      "tokens" : [ {
+        "text" : "y",
+        "rect" : "867,2155,62,29"
+      } ],
+      "rect" : "852,2155,77,29"
+    }, {
+      "tokens" : [ {
+        "text" : "MIRIAM",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "928,2139,253,47"
+      }, {
+        "text" : "CASTAÑO",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1213,2139,247,47"
+      } ],
+      "rect" : "915,2139,545,47"
+    }, {
+      "tokens" : [ {
+        "text" : "Abuelos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "B",
+        "rect" : "564,2221,116,35"
+      }, {
+        "text" : "paternos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "E",
+        "rect" : "694,2221,197,35"
+      } ],
+      "rect" : "550,2221,341,35"
+    }, {
+      "tokens" : [ {
+        "text" : "ANA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "909,2212,132,43"
+      }, {
+        "text" : "MELIDA",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1071,2212,222,43"
+      }, {
+        "text" : "GONZÁLEZ",
+        "orig" : "GONZALEZ",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1341,2212,312,43"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1653,2212,36,43"
+      } ],
+      "rect" : "873,2212,816,43"
+    }, {
+      "tokens" : [ {
+        "text" : "Abuelos",
+        "type" : "FAMILY_MEMBER",
+        "position" : "B",
+        "style" : "italic",
+        "rect" : "565,2327,117,53"
+      }, {
+        "text" : "maternos",
+        "post" : "  ",
+        "type" : "FAMILY_MEMBER",
+        "position" : "E",
+        "style" : "italic",
+        "rect" : "697,2327,139,53"
+      }, {
+        "text" : "TOILA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "909,2327,191,53"
+      }, {
+        "text" : "CASTONo",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive,underlined",
+        "rect" : "1151,2327,279,53"
+      } ],
+      "rect" : "550,2327,880,53"
+    }, {
+      "tokens" : [ {
+        "text" : "Padrinos",
+        "type" : "NONFAMILY",
+        "position" : "U",
+        "rect" : "567,2478,142,28"
+      } ],
+      "rect" : "555,2478,154,28"
+    }, {
+      "tokens" : [ {
+        "text" : "ZOILA",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "900,2460,179,49"
+      }, {
+        "text" : "CASTAÑO",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1106,2460,273,49"
+      } ],
+      "rect" : "873,2460,506,49"
+    }, {
+      "tokens" : [ {
+        "text" : "GILBERTO",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive",
+        "rect" : "894,2532,286,42"
+      }, {
+        "text" : "ORTIZ",
+        "post" : "",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1226,2532,199,42"
+      }, {
+        "text" : ".",
+        "style" : "cursive",
+        "rect" : "1425,2532,29,42"
+      } ],
+      "rect" : "882,2532,572,42"
+    }, {
+      "tokens" : [ {
+        "text" : "a",
+        "rect" : "563,2600,23,58"
+      }, {
+        "text" : "quienes",
+        "type" : "COREF",
+        "position" : "U",
+        "rect" : "594,2600,110,58"
+      }, {
+        "text" : "se",
+        "rect" : "712,2600,31,58"
+      }, {
+        "text" : "advirtió",
+        "rect" : "751,2600,125,58"
+      }, {
+        "text" : "el",
+        "rect" : "884,2600,32,58"
+      }, {
+        "text" : "parentesco",
+        "rect" : "923,2600,149,58"
+      }, {
+        "text" : "espiritual",
+        "rect" : "1080,2600,149,58"
+      }, {
+        "text" : "que",
+        "rect" : "1237,2600,47,58"
+      }, {
+        "text" : "contranca",
+        "charStyles" : [ null, null, null, null, null, "italic", "italic", "italic", "italic" ],
+        "rect" : "1292,2600,392,58"
+      }, {
+        "text" : "y",
+        "style" : "italic",
+        "rect" : "1700,2600,23,58"
+      }, {
+        "text" : "las",
+        "style" : "italic",
+        "rect" : "1731,2600,47,58"
+      }, {
+        "text" : "obligacions",
+        "style" : "italic",
+        "rect" : "1786,2600,188,58"
+      } ],
+      "rect" : "555,2600,1419,58"
+    }, {
+      "tokens" : [ {
+        "text" : "consiguientes",
+        "post" : "",
+        "rect" : "569,2660,188,35"
+      }, {
+        "text" : ".",
+        "rect" : "757,2660,24,35"
+      } ],
+      "rect" : "555,2660,226,35"
+    }, {
+      "tokens" : [ {
+        "text" : "Doy",
+        "style" : "cursive",
+        "rect" : "1014,2644,68,127"
+      }, {
+        "text" : "fe",
+        "charStyles" : [ "cursive", "cursive,underlined" ],
+        "rect" : "1091,2644,42,127"
+      }, {
+        "text" : "Samum",
+        "type" : "PERSON",
+        "position" : "B",
+        "style" : "cursive,underlined",
+        "rect" : "1150,2644,220,127"
+      }, {
+        "text" : "Luz",
+        "type" : "PERSON",
+        "position" : "I",
+        "style" : "cursive",
+        "rect" : "1387,2644,169,127"
+      }, {
+        "text" : "Corio",
+        "type" : "PERSON",
+        "position" : "E",
+        "style" : "cursive",
+        "rect" : "1573,2644,186,127"
+      } ],
+      "rect" : "1006,2644,753,127"
+    }, {
+      "tokens" : [ {
+        "text" : "↔",
+        "rect" : "1435,2754,9,7"
+      } ],
+      "rect" : "1377,2754,67,7"
+    } ],
+    "rect" : "550,2077,1424,694"
+  }, {
+    "id" : "R19",
+    "type" : "PARAGRAPH",
+    "subPageId" : "LEFT",
+    "lines" : [ {
+      "tokens" : [ {
+        "text" : "Párroco",
+        "type" : "OCCUPATION",
+        "position" : "U",
+        "rect" : "1473,2778,123,24"
+      } ],
+      "rect" : "1433,2778,163,24"
+    } ],
+    "rect" : "1433,2778,163,24"
+  } ],
+  "metadata" : {
+    "properties" : [ {
+      "name" : "BUILD",
+      "value" : "1.0.b501"
+    }, {
+      "name" : "CREATED",
+      "value" : "2021-04-09T06:51:58.949Z"
+    }, {
+      "name" : "FS_IMAGE_APID",
+      "value" : "TH-909-69471-37985-54"
+    }, {
+      "name" : "FS_IMAGE_ID",
+      "value" : "103278761_00364"
+    }, {
+      "name" : "GROUP_APID",
+      "value" : "TH-909-69471-36879-27"
+    }, {
+      "name" : "IMAGE_ARK",
+      "value" : "https://familysearch.org/ark:/61903/3:1:3Q9M-CSJ7-L9DW-7"
+    }, {
+      "name" : "IMAGE_HAS_BIRTHS_COUNT",
+      "value" : "2"
+    }, {
+      "name" : "IMAGE_HAS_BURIALS_COUNT",
+      "value" : "0"
+    }, {
+      "name" : "IMAGE_HAS_CENSUS_COUNT",
+      "value" : "0"
+    }, {
+      "name" : "IMAGE_HAS_CHRISTENINGS_COUNT",
+      "value" : "2"
+    }, {
+      "name" : "IMAGE_HAS_COUPLES_COUNT",
+      "value" : "0"
+    }, {
+      "name" : "IMAGE_HAS_DEATHS_COUNT",
+      "value" : "0"
+    }, {
+      "name" : "IMAGE_HAS_GODPARENTS_COUNT",
+      "value" : "2"
+    }, {
+      "name" : "IMAGE_HAS_GRANDPARENTS_COUNT",
+      "value" : "4"
+    }, {
+      "name" : "IMAGE_HAS_MARRIAGES_COUNT",
+      "value" : "1"
+    }, {
+      "name" : "IMAGE_HAS_OTHER_NONRELATIVES_COUNT",
+      "value" : "0"
+    }, {
+      "name" : "IMAGE_HAS_PARENTS_COUNT",
+      "value" : "1"
+    }, {
+      "name" : "IMAGE_HAS_SIBLINGS_COUNT",
+      "value" : "0"
+    }, {
+      "name" : "IMAGE_SEARCH_LINK",
+      "value" : "https://www.familysearch.org/records/images/image-details?rmsId=TH-909-69471-36879-27&imageIndex=363&singleView=true"
+    }, {
+      "name" : "LANGUAGE",
+      "value" : "es"
+    }, {
+      "name" : "LANGUAGE_MODEL",
+      "value" : "kaldi_prep_charHWOCR.20200529.spanish"
+    }, {
+      "name" : "LINE_SEGMENTATION_MODEL",
+      "value" : "models/line-segment/2021-02-27"
+    }, {
+      "name" : "LM_QUALITY_ESTIMATE",
+      "value" : "0.5301068762111967"
+    }, {
+      "name" : "NER_MODEL",
+      "value" : "models/ner/MODEL03112021_9440"
+    }, {
+      "name" : "RECORD_DATE",
+      "value" : "1970"
+    }, {
+      "name" : "RECORD_PLACE",
+      "value" : "Manizales, Caldas, Colombia"
+    }, {
+      "name" : "RECORD_PLACE_ID",
+      "value" : "446344"
+    }, {
+      "name" : "RECORD_TYPE",
+      "value" : "http://gedcomx.org/Christening"
+    }, {
+      "name" : "VARIANTS_FILE",
+      "value" : "models/variants/variants.es.20210402.txt"
+    }, {
+      "name" : "VISUAL_MODEL",
+      "value" : "models/visual/spanish-2020-05-29"
+    }, {
+      "name" : "VM_QUALITY_ESTIMATE",
+      "value" : "0.5693535728602869"
+    }, {
+      "name" : "WAYPOINT_DATA_LINK",
+      "value" : "https://www.familysearch.org/service/cds/recapi/images/3:1:3Q9M-CSJ7-L9DW-7"
+    } ],
+    "coverageList" : [ {
+      "date" : "1967-1972",
+      "formalDate" : "+1967-01-01/+1972-12-31",
+      "place" : "Manizales, Caldas, Colombia",
+      "placeId" : 446344,
+      "placeIdHierarchy" : [ 131, 5773, 446344 ],
+      "recordType" : "Christening Record",
+      "recordTypeId" : 114490,
+      "recordTypeUri" : "http://gedcomx.org/Christening"
+    } ],
+    "coverageHints" : [ ]
+  }
+}
